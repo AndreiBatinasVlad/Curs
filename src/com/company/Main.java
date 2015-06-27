@@ -32,5 +32,7 @@ public class Main {
          }while(!isNumber);
 
         System.out.println("Numarul este: " + number);
+
+        System.out.println( "asdasdada");
     }
 }
